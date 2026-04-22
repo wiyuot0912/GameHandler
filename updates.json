@@ -1,5 +1,6 @@
 {
   "title": "타이틀",
-  "Version": "버전",
-  "Content": "내용"
+  "version": "버전",
+  "content": "내용",
+  "date": "날짜"
 }
